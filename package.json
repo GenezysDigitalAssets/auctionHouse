@@ -1,0 +1,22 @@
+{
+  "name": "auctiontests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "lordie",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/mpl-auction-house": "^1.1.1",
+    "@metaplex-foundation/mpl-token-metadata": "^1.2.5",
+    "@mobily/ts-belt": "^3.10.0",
+    "@solana/spl-token": "^0.1.8",
+    "@solana/web3.js": "^1.36.0",
+    "@types/jest": "^27.4.1",
+    "@types/node": "^17.0.22",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.2"
+  }
+}
